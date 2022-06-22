@@ -1,1 +1,1 @@
-<img align="center" alt="aris" src="https://github.com/ressykins/ressykins/blob/main/aris_gif.gif">
+<img align="center" alt="aris" width="400" src="https://github.com/ressykins/ressykins/blob/main/aris_gif.gif">
